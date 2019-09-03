@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MarvelBooking</string>
+    <string name="hiName">Hi %s,</string>
+</resources>
